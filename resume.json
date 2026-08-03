@@ -5,20 +5,16 @@
     "projectList": "项目经验",
     "skillList": "个人技能",
     "awardList": "更多信息",
-    "workList": "个人作品",
-    "aboutme": "个人评价"
+    "workList": "个人作品"
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "黄方杰",
+    "email": "huangfangjie314@qq.com",
+    "mobile": "18855311965"
   },
   "educationList": [
     {
@@ -103,9 +99,6 @@
     }
   ],
   "workList": [],
-  "aboutme": {
-    "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
-  },
   "theme": {
     "color": "#2f5785",
     "tagColor": "#8bc34a"
